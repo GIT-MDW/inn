@@ -1,0 +1,9 @@
+.user-info {
+  width: 50%;
+  &__id,
+  &__name,
+  &__age,
+  &__item {
+    margin-bottom: 10px;
+  }
+}
